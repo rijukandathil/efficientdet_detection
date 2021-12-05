@@ -9,7 +9,7 @@ pip3 install torchvision==0.5.0
 
 #### Clone the repository
 ```
-git clone
+git clone https://github.com/rijukandathil/efficientdet_detection.git
 cd efficientdet_detection
 ```
 #### Download the dataset and unzip the folder
