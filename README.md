@@ -18,7 +18,7 @@ cd efficientdet_detection
 wget https://evp-ml-data.s3.us-east-2.amazonaws.com/ml-interview/openimages-personcar/trainval.tar.gz
 tar -xvzf trainval.tar.gz
 ```
-#### Dataset preperation 
+#### Dataset preparation 
 
 ```
 # dataset structure should be like this
