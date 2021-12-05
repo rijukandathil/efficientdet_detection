@@ -76,6 +76,10 @@ python3 train.py -c 2 -p efficientdet --batch_size 1 --lr 1e-3 --num_epochs 20 \
 Modify the efficientdet_test.py and run it.
 `python3 efficientdet_test.py`
 
+```Sample output```
 
-![Sample output](https://i.imgur.com/1rFudt3.jpg)
 
+![](https://i.imgur.com/1rFudt3.jpg)
+
+
+  
