@@ -73,8 +73,10 @@ python3 train.py -c 2 -p efficientdet --batch_size 1 --lr 1e-3 --num_epochs 20 \
 ```
 #### Testing the model on a custom image
 
-Modify the efficientdet_test.py and run it.
-`python3 efficientdet_test.py`
+Modify the efficientdet_test.py and run
+
+
+```python3 efficientdet_test.py```
 
 ```Sample output```
 
